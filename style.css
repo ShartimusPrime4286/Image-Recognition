@@ -1,0 +1,20 @@
+body{
+    background-color: cyan;
+}
+h3{
+    width: 80%;
+    font-size: 20;
+}
+#camera{
+    border: 2px dotted seagreen;
+    width: 350px;
+    height: 350px;
+}
+#result{
+    border: 2px dotted seagreen;
+    width: 350px;
+    height: 350px;
+}
+.name_OF_objects,#object,#accuracy{
+    color: red;
+}
